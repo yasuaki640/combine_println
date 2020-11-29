@@ -1,7 +1,6 @@
-HTMLやJSファイルをjavaでべた書きするために
-前後にprintlnメソッドを付けるツール
-出力ファイル名は末尾にPrintlnと名称がつく
-ex. test.js -> testPrintln.js
+HTMLやJSファイルをjavaでべた書きするために前後にprintlnメソッドを付けるツール  
+出力ファイル名は末尾にPrintlnと名称がつく  
+ex. test.js -> testPrintln.js  
 
 # USAGE
 java CombinePrintln [任意のファイルパス]
